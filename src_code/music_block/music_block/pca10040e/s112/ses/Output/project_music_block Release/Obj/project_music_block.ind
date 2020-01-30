@@ -71,7 +71,7 @@
 "Output/project_music_block Release/Obj/nrf_sdh.o"
 "Output/project_music_block Release/Obj/nrf_sdh_ble.o"
 "Output/project_music_block Release/Obj/nrf_sdh_soc.o"
-"Output/project_music_block Release/Obj/music_block.o"
+"Output/project_music_block Release/Obj/button_service.o"
 "C:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 4.22/lib/libdebugio_mempoll_v7em_t_le_eabi.a"
 "C:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 4.22/lib/libm_v7em_t_le_eabi.a"
 "C:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 4.22/lib/libc_v7em_t_le_eabi.a"

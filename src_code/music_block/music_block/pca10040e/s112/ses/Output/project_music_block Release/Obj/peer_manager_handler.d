@@ -1,6 +1,6 @@
 Output/project_music_block\ Release/Obj/peer_manager_handler.o: \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\peer_manager_handler.c \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\peer_manager_handler.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\peer_manager_handler.c \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\peer_manager_handler.h \
  ../../../../../../components/softdevice/s112/headers/ble.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdint.h \
  ../../../../../../components/softdevice/s112/headers/nrf_svc.h \
@@ -25,7 +25,7 @@ Output/project_music_block\ Release/Obj/peer_manager_handler.o: \
  ../../../../../../modules/nrfx/mdk/nrf52_to_nrf52810.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
  ../../../../../../components/softdevice/s112/headers/ble_gatts.h \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\peer_manager.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\peer_manager.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdbool.h \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/string.h \
@@ -43,7 +43,7 @@ Output/project_music_block\ Release/Obj/peer_manager_handler.o: \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
  ../../../../../../components/softdevice/s112/headers/ble_gap.h \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\peer_manager_types.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\peer_manager_types.h \
  ../../../../../../components/softdevice/s112/headers/ble_hci.h \
  ../../../../../../components/ble/common/ble_gatt_db.h \
  ../../../../../../components/softdevice/s112/headers/ble_gattc.h \
@@ -55,8 +55,8 @@ Output/project_music_block\ Release/Obj/peer_manager_handler.o: \
  ../../../../../../components/libraries/util/app_error.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdio.h \
  ../../../../../../components/libraries/util/app_error_weak.h \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\peer_database.h \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\peer_manager_internal.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\peer_database.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\peer_manager_internal.h \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/libraries/util/app_error.h \
  ../../../../../../components/ble/common/ble_conn_state.h \

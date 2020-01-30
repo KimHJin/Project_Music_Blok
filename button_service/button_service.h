@@ -4,6 +4,8 @@
 #include "nordic_common.h"
 #include "nrf_error.h"
 #include "nrf_delay.h"
+#include "bsp_btn_ble.h"
+#include "nrf_soc.h"
 
 #include "nrf_log.h"
 #include "nrf_log_ctrl.h"
@@ -19,8 +21,9 @@
 
 void bsp_evt_handler(bsp_event_t evt);
 void clock_initialization(void);
-void bsp_configuration(void);
-void button_init(void);
+void bsp_configuration(bool * p_erase_bonds);
+void button_init(bool * p_erase_bonds);
+void sleep_mode_enter(void);
 
 
 

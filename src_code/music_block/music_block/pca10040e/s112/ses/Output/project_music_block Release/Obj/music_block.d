@@ -1,6 +1,6 @@
 Output/project_music_block\ Release/Obj/music_block.o: \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\musicblock\music_block.c \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\musicblock\music_block.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\musicblock\music_block.c \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\musicblock\music_block.h \
  ../../../../../../components/boards/boards.h \
  ../../../../../../modules/nrfx/hal/nrf_gpio.h \
  ../../../../../../modules/nrfx/nrfx.h \
@@ -59,6 +59,17 @@ Output/project_music_block\ Release/Obj/music_block.o: \
  ../../../../../../components/libraries/util/app_error.h \
  ../../../../../../components/libraries/timer/app_timer.h \
  ../../../../../../components/libraries/delay/nrf_delay.h \
+ ../../../../../../components/libraries/bsp/bsp_btn_ble.h \
+ ../../../../../../components/softdevice/s112/headers/ble.h \
+ ../../../../../../components/softdevice/s112/headers/ble_err.h \
+ ../../../../../../components/softdevice/s112/headers/ble_gap.h \
+ ../../../../../../components/softdevice/s112/headers/ble_hci.h \
+ ../../../../../../components/softdevice/s112/headers/ble_ranges.h \
+ ../../../../../../components/softdevice/s112/headers/ble_types.h \
+ ../../../../../../components/softdevice/s112/headers/ble_gatt.h \
+ ../../../../../../components/softdevice/s112/headers/ble_gattc.h \
+ ../../../../../../components/softdevice/s112/headers/ble_gatts.h \
+ ../../../../../../components/libraries/bsp/bsp.h \
  ../../../../../../components/libraries/log/nrf_log.h \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/string.h \

@@ -1,5 +1,5 @@
 Output/project_music_block\ Release/Obj/peer_manager.o: \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\peer_manager.c \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\peer_manager.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdbool.h \
@@ -31,7 +31,7 @@ Output/project_music_block\ Release/Obj/peer_manager.o: \
  ../../../../../../components/libraries/util/nrf_assert.h \
  ../../../../../../components/softdevice/s112/headers/ble_err.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error.h \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\peer_manager.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\peer_manager.h \
  ../../../../../../components/softdevice/s112/headers/ble.h \
  ../../../../../../components/softdevice/s112/headers/nrf_svc.h \
  ../../../../../../components/softdevice/s112/headers/ble_err.h \
@@ -43,7 +43,7 @@ Output/project_music_block\ Release/Obj/peer_manager.o: \
  ../../../../../../components/softdevice/s112/headers/ble_gattc.h \
  ../../../../../../components/softdevice/s112/headers/ble_gatts.h \
  ../../../../../../components/softdevice/s112/headers/ble_gap.h \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\peer_manager_types.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\peer_manager_types.h \
  ../../../../../../components/softdevice/s112/headers/ble_hci.h \
  ../../../../../../components/ble/common/ble_gatt_db.h \
  ../../../../../../components/softdevice/s112/headers/ble_gattc.h \
@@ -55,15 +55,15 @@ Output/project_music_block\ Release/Obj/peer_manager.o: \
  ../../../../../../components/libraries/util/app_error.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdio.h \
  ../../../../../../components/libraries/util/app_error_weak.h \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\peer_database.h \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\peer_manager_internal.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\peer_database.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\peer_manager_internal.h \
  ../../../../../../components/libraries/util/sdk_errors.h \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\security_manager.h \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\security_dispatcher.h \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\gatt_cache_manager.h \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\gatts_cache_manager.h \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\peer_data_storage.h \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\id_manager.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\security_manager.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\security_dispatcher.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\gatt_cache_manager.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\gatts_cache_manager.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\peer_data_storage.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\id_manager.h \
  ../../../../../../components/ble/common/ble_conn_state.h \
  ../../../../../../components/libraries/atomic/nrf_atomic.h \
  ../../../../../../components/softdevice/common/nrf_sdh_ble.h \

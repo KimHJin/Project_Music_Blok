@@ -135,10 +135,10 @@
     </folder>
     <configuration
       Name="Release"
-      c_user_include_directories=".;../../../../../../musicblock" />
-    <folder Name="Music_block">
-      <file file_name="../../../../../../musicblock/music_block.h" />
-      <file file_name="../../../../../../musicblock/music_block.c" />
+      c_user_include_directories=".;../../../../../../button_service" />
+    <folder Name="Button_service">
+      <file file_name="../../../../../../button_service/button_service.c" />
+      <file file_name="../../../../../../button_service/button_service.h" />
     </folder>
   </project>
   <configuration

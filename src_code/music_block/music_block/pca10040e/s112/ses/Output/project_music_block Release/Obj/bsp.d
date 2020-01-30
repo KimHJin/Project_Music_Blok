@@ -1,6 +1,6 @@
 Output/project_music_block\ Release/Obj/bsp.o: \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\libraries\bsp\bsp.c \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\libraries\bsp\bsp.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\libraries\bsp\bsp.c \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\libraries\bsp\bsp.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdbool.h \
  ../../../../../../components/boards/boards.h \
@@ -56,5 +56,5 @@ Output/project_music_block\ Release/Obj/bsp.o: \
  ../../../../../../components/boards/pca10040.h \
  ../../../../../../components/libraries/button/app_button.h \
  ../../../../../../components/libraries/util/app_error.h \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\libraries\bsp\bsp_config.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\libraries\bsp\bsp_config.h \
  ../../../../../../components/libraries/timer/app_timer.h

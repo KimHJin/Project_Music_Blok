@@ -1,5 +1,5 @@
 Output/project_music_block\ Release/Obj/peer_id.o: \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\peer_id.c \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\peer_id.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdbool.h \
@@ -29,7 +29,7 @@ Output/project_music_block\ Release/Obj/peer_id.o: \
  ../../../../../../components/softdevice/s112/headers/nrf_svc.h \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\peer_id.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\peer_id.h \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/softdevice/s112/headers/ble_gap.h \
  ../../../../../../components/softdevice/s112/headers/nrf_svc.h \
@@ -38,7 +38,7 @@ Output/project_music_block\ Release/Obj/peer_id.o: \
  ../../../../../../components/softdevice/s112/headers/ble_ranges.h \
  ../../../../../../components/softdevice/s112/headers/ble_types.h \
  ../../../../../../components/softdevice/s112/headers/ble_err.h \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\peer_manager\peer_manager_types.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\peer_manager\peer_manager_types.h \
  ../../../../../../components/softdevice/s112/headers/ble_hci.h \
  ../../../../../../components/ble/common/ble_gatt_db.h \
  ../../../../../../components/softdevice/s112/headers/ble.h \

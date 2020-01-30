@@ -1,6 +1,6 @@
 Output/project_music_block\ Release/Obj/ble_advdata.o: \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\common\ble_advdata.c \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\common\ble_advdata.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\common\ble_advdata.c \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\common\ble_advdata.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdbool.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/string.h \
@@ -42,7 +42,7 @@ Output/project_music_block\ Release/Obj/ble_advdata.o: \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
  ../../../../../../components/softdevice/s112/headers/ble_gap.h \
- D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\common\ble_srv_common.h \
+ D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\common\ble_srv_common.h \
  ../../../../../../components/softdevice/s112/headers/ble_types.h \
  ../../../../../../components/libraries/util/app_util.h \
  ../../../../../../components/softdevice/s112/headers/ble_gatt.h
