@@ -1,5 +1,5 @@
 Output/project_music_block\ Release/Obj/nrf_ble_qwr.o: \
- D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\nrf_ble_qwr\nrf_ble_qwr.c \
+ D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\nrf_ble_qwr\nrf_ble_qwr.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdbool.h \
@@ -30,7 +30,7 @@ Output/project_music_block\ Release/Obj/nrf_ble_qwr.o: \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdlib.h \
- D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\ble\nrf_ble_qwr\nrf_ble_qwr.h \
+ D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\ble\nrf_ble_qwr\nrf_ble_qwr.h \
  ../../../../../../components/libraries/util/nordic_common.h \
  ../../../../../../components/softdevice/s112/headers/ble.h \
  ../../../../../../components/softdevice/s112/headers/nrf_svc.h \

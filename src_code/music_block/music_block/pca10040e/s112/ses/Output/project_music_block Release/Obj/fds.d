@@ -1,5 +1,5 @@
 Output/project_music_block\ Release/Obj/fds.o: \
- D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\libraries\fds\fds.c \
+ D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\libraries\fds\fds.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdbool.h \
@@ -29,7 +29,7 @@ Output/project_music_block\ Release/Obj/fds.o: \
  ../../../../../../components/softdevice/s112/headers/nrf_svc.h \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
- D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\libraries\fds\fds.h \
+ D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\libraries\fds\fds.h \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/libraries/util/app_util_platform.h \
  ../../../../../../components/softdevice/s112/headers/nrf_soc.h \
@@ -40,7 +40,7 @@ Output/project_music_block\ Release/Obj/fds.o: \
  ../../../../../../components/libraries/util/app_error.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdio.h \
  ../../../../../../components/libraries/util/app_error_weak.h \
- D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\libraries\fds\fds_internal_defs.h \
+ D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\libraries\fds\fds_internal_defs.h \
  ../../../../../../components/libraries/atomic/nrf_atomic.h \
  ../../../../../../components/libraries/atomic_fifo/nrf_atfifo.h \
  ../../../../../../components/libraries/util/nordic_common.h \

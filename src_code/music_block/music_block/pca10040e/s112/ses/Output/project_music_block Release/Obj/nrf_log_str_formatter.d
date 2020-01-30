@@ -1,5 +1,5 @@
 Output/project_music_block\ Release/Obj/nrf_log_str_formatter.o: \
- D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\libraries\log\src\nrf_log_str_formatter.c \
+ D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\libraries\log\src\nrf_log_str_formatter.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdbool.h \
@@ -52,7 +52,7 @@ Output/project_music_block\ Release/Obj/nrf_log_str_formatter.o: \
  ../../../../../../components/libraries/log/nrf_log_instance.h \
  ../../../../../../components/libraries/experimental_section_vars/nrf_section.h \
  ../../../../../../components/libraries/util/nordic_common.h \
- D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\libraries\log\src\nrf_log_internal.h \
+ D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\libraries\log\src\nrf_log_internal.h \
  ../../../../../../components/libraries/log/nrf_log_types.h \
  ../../../../../../components/libraries/log/nrf_log_ctrl.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/ctype.h \

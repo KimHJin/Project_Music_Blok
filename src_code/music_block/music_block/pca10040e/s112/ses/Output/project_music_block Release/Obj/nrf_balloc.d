@@ -1,5 +1,5 @@
 Output/project_music_block\ Release/Obj/nrf_balloc.o: \
- D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\libraries\balloc\nrf_balloc.c \
+ D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\libraries\balloc\nrf_balloc.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdbool.h \
@@ -31,7 +31,7 @@ Output/project_music_block\ Release/Obj/nrf_balloc.o: \
  ../../../../../../components/libraries/util/nrf_assert.h \
  ../../../../../../components/libraries/experimental_section_vars/nrf_section.h \
  ../../../../../../components/libraries/util/nordic_common.h \
- D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\libraries\balloc\nrf_balloc.h \
+ D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\libraries\balloc\nrf_balloc.h \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/libraries/util/app_util_platform.h \
  ../../../../../../components/softdevice/s112/headers/nrf_soc.h \

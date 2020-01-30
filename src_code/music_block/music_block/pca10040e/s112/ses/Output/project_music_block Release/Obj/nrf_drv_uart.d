@@ -1,6 +1,6 @@
 Output/project_music_block\ Release/Obj/nrf_drv_uart.o: \
- D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\integration\nrfx\legacy\nrf_drv_uart.c \
- D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\integration\nrfx\legacy\nrf_drv_uart.h \
+ D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\integration\nrfx\legacy\nrf_drv_uart.c \
+ D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\integration\nrfx\legacy\nrf_drv_uart.h \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \

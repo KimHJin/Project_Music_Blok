@@ -1,6 +1,6 @@
 Output/project_music_block\ Release/Obj/bsp_btn_ble.o: \
- D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\libraries\bsp\bsp_btn_ble.c \
- D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\libraries\bsp\bsp_btn_ble.h \
+ D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\libraries\bsp\bsp_btn_ble.c \
+ D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\libraries\bsp\bsp_btn_ble.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdint.h \
  ../../../../../../components/softdevice/s112/headers/ble.h \
  ../../../../../../components/softdevice/s112/headers/nrf_svc.h \
@@ -25,7 +25,7 @@ Output/project_music_block\ Release/Obj/bsp_btn_ble.o: \
  ../../../../../../modules/nrfx/mdk/nrf52_to_nrf52810.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
  ../../../../../../components/softdevice/s112/headers/ble_gatts.h \
- D:\KHJ\WORK\FirmWare_Code\nRF52_git\Project_Music_Blok\components\libraries\bsp\bsp.h \
+ D:\KHJ\WORK\FirmWare_Code\music_block\main_mcu_firmware_code\music_block_v3\nRF5_SDK_15.3.0_59ac345\components\libraries\bsp\bsp.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.22/include/stdbool.h \
  ../../../../../../components/boards/boards.h \
  ../../../../../../modules/nrfx/hal/nrf_gpio.h \

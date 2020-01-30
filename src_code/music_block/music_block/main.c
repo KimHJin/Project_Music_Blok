@@ -623,6 +623,14 @@ static void advertising_start(bool erase_bonds)
 }
 
 
+
+void ble_service_init(void)
+{
+   
+}
+
+
+
 /**@brief Function for application main entry.
  */
 int main(void)
@@ -640,19 +648,41 @@ int main(void)
     services_init();
     conn_params_init();
     peer_manager_init();
-
     button_init(&erase_bonds);
 
     // Start execution.
-    NRF_LOG_INFO("Template example started.");
+    NRF_LOG_INFO("Project_Music_Blok.");
     application_timers_start();
 
     advertising_start(erase_bonds);
 
+    nrf_gpio_cfg_output(7);
+
     // Enter main loop.
-    for (;;)
+    while(true)
     {
-        idle_state_handle();
+     
+        if(read_play_flag())       // play_state
+        {  
+            NRF_LOG_INFO("PLAY");
+
+            
+        }
+   
+        else if(read_pause_flag()) // pause_state
+        {
+            NRF_LOG_INFO("PAUSE");
+            
+        }
+
+        else if(read_stop_flag())  // stop_state
+        {
+            NRF_LOG_INFO("STOP");
+            
+        }
+       
+        idle_state_handle();       // idle_state
+
     }
 }
 

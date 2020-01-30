@@ -135,7 +135,7 @@
     </folder>
     <configuration
       Name="Release"
-      c_user_include_directories=".;../../../../../../button_service" />
+      c_user_include_directories=".;../../../../../../button_service;../../../../../../define_code" />
     <folder Name="Button_service">
       <file file_name="../../../../../../button_service/button_service.c" />
       <file file_name="../../../../../../button_service/button_service.h" />
